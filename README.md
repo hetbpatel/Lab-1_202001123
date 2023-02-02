@@ -15,7 +15,7 @@ Renew<br />
 Add and manage books<br /> 
 Date record<br /> 
 Fine for overdue<br /> 
-privileges<br /> 
+Privileges<br /> 
 History<br /> 
 
 ## Non functional requirements:
