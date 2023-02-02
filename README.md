@@ -18,7 +18,7 @@ Fine for overdue<br />
 privileges<br /> 
 History<br /> 
 
-## Non functional requirements
+## Non functional requirements:
 
  User interface<br />
  UI/UX<br />
