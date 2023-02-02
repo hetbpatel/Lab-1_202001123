@@ -4,26 +4,32 @@ IT314 Software Engineering Lab-1
 # Q.1. Identify FRs and NFRs:
 ## Functional Requirements:
 
-Efficient Search with different parameters
-Request
-Reserve
-Renew
-Add and manage books
-Date record
-Fine for overdue
-privileges
-History
+Efficient search with different parameters <br /> 
+Price<br />
+Size<br />
+Date of Published<br />
+Popularity<br />
+Request<br /> 
+Reserve<br /> 
+Renew<br /> 
+Add and manage books<br /> 
+Date record<br /> 
+Fine for overdue<br /> 
+privileges<br /> 
+History<br /> 
 
 ## Non functional requirements
 
- User interface
- Performance
- Accessibility
- Reliability
- Ease of Use
- Security
- Scalability
- Maintainability
+ User interface<br />
+ UI/UX<br />
+ Performance<br /> 
+ Accessibility<br /> 
+ Reliability<br /> 
+ Ease of Use<br /> 
+ Security<br /> 
+ Scalability<br /> 
+ Maintainability<br /> 
+ Low latency<br />
  
  # Q.2. Identify scope, features and non-functional aspects of the following problem
  
@@ -33,12 +39,20 @@ History
  
  ## Features
  
- Live transcription
-Make calls
-Sound Volume adjustment
-eliminates background noise
-Improve audio quality
-Amplify and enhance sound
+Live transcription<br /> 
+Make calls<br /> 
+Sound Volume adjustment<br /> 
+Eliminate background noise<br /> 
+Improve audio quality<br /> 
+Amplify and enhance sound<br /> 
 Emergency Service
 
 ## Non-functional aspects
+
+Efficient transcription system<br /> 
+Speed<br />
+Compatibility<br />
+Reliability<br />
+Scalability<br /> 
+Maintainability<br /> 
+Performance<br />
