@@ -1,7 +1,8 @@
 # Lab1_202001123
-IT314 Software Engineering Lab1
+IT314 Software Engineering Lab-1
 
--> Functional requirements
+# Q.1. Identify FRs and NFRs:
+## Functional Requirements:
 
 Efficient Search with different parameters
 Request
@@ -13,13 +14,9 @@ Fine for overdue
 privileges
 History
 
+## Non functional requirements
 
-
-
-
--> Non functional requirements
-
-User interface
+ User interface
  Performance
  Accessibility
  Reliability
@@ -28,11 +25,13 @@ User interface
  Scalability
  Maintainability
  
- # Scope
+ # Q.2. Identify scope, features and non-functional aspects of the following problem
+ 
+ ## Scope
  
  Resolving the key barriers to communication that millions of deaf and hard of hearing persons face on a daily basis and improve their quality of life.
  
- # Features
+ ## Features
  
  Live transcription
 Make calls
@@ -41,3 +40,5 @@ eliminates background noise
 Improve audio quality
 Amplify and enhance sound
 Emergency Service
+
+## Non-functional aspects
